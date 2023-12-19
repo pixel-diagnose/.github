@@ -6,7 +6,7 @@ Welcome to Pixel Diagnose! 🧠 Our mission is to empower radiologists with stat
 
 Pixel Diagnose acts as a clinician's digital assistant, employing an advanced architecture to boost diagnostic precision. Imagine a radiologist examining a brain scan of a potential tumor patient, seeking confirmation by comparing it with other patients' scans. Unlike a human, our application can scan through thousands of MRI images in seconds. We enable the comparison of a patient’s MRI scan with numerous similar images across various diagnoses. This process involves embedding query images and employing cosine similarity in our vector store for precise matching, followed by retrieving similar images from our extensive database.
 
-[Demo Video](https://github.com/pixel-diagnose/.github/assets/75021486/cca21087-eb2b-4be6-85b2-3bdd8e64d5c5)
+[Demo Video](https://github.com/pixel-diagnose/.github/assets/75021486/de0efffe-6a41-44b4-8350-6bf06f3bca58)
 
 ## Quick Start
 Get started with our Docker image:
