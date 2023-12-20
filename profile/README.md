@@ -54,7 +54,7 @@ Connect with our team:
 
 ## License
 
-Pixel Diagnose is open-sourced under the [GNU Affero GPL v3 License](LICENSE).
+Pixel Diagnose is open-sourced under the [GNU Affero GPL v3 License](https://github.com/pixel-diagnose/.github/blob/main/profile/LICENSE).
 
 ## Support
 For support, please open an issue or contact us at [pixeldiagnose@gmail.com](mailto:pixeldiagnose@gmail.com).
