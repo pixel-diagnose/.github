@@ -48,7 +48,7 @@ Join us in our mission to revolutionize radiology diagnostics! We welcome contri
 
 Connect with our team:
 - [Michael Gerloff](https://www.linkedin.com/in/michael-gerloff/)
-- [Svenja Niehaus](https://www.linkedin.com/in/svenja-niehus/)
+- [Svenja Niehus](https://www.linkedin.com/in/svenja-niehus/)
 - [Dr. Katja Dittrich](https://www.linkedin.com/in/katja-dittrich/)
 - [Antonio Rueda-Toicen](https://www.linkedin.com/in/antonioruedatoicen/)
 
